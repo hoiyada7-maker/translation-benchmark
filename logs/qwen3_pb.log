@@ -1,0 +1,30 @@
+[21:31:44] qwen3:8b: 611 blocks, per-block x6 workers -> translations/caption_2026-09-10_09-26-10.qwen3.srt
+[21:32:21]   30/611 (1.22s/blk, ~11.8min left)
+[21:32:49]   60/611 (1.08s/blk, ~9.9min left)
+[21:33:24]   90/611 (1.11s/blk, ~9.6min left)
+[21:33:56]   120/611 (1.09s/blk, ~9.0min left)
+[21:34:24]   150/611 (1.07s/blk, ~8.2min left)
+[21:35:01]   180/611 (1.09s/blk, ~7.8min left)
+[21:35:26]   210/611 (1.05s/blk, ~7.0min left)
+[21:35:56]   240/611 (1.05s/blk, ~6.5min left)
+[21:36:26]   270/611 (1.04s/blk, ~5.9min left)
+[21:36:52]   300/611 (1.02s/blk, ~5.3min left)
+[21:37:22]   330/611 (1.02s/blk, ~4.8min left)
+[21:37:53]   360/611 (1.02s/blk, ~4.3min left)
+[21:43:11]   block 385 FAILED: timed out
+[21:43:13]   block 386 FAILED: timed out
+[21:43:14]   block 387 FAILED: timed out
+[21:43:15]   block 388 FAILED: timed out
+[21:43:16]   block 389 FAILED: timed out
+[21:43:18]   block 390 FAILED: timed out
+[21:43:18]   390/611 (1.78s/blk, ~6.5min left)
+[21:48:18]   block 395 FAILED: timed out
+[21:48:40]   420/611 (2.42s/blk, ~7.7min left)
+[21:49:08]   450/611 (2.32s/blk, ~6.2min left)
+[21:49:28]   480/611 (2.22s/blk, ~4.8min left)
+[21:49:52]   510/611 (2.13s/blk, ~3.6min left)
+[21:50:15]   540/611 (2.06s/blk, ~2.4min left)
+[21:50:38]   570/611 (1.99s/blk, ~1.4min left)
+[21:51:01]   600/611 (1.93s/blk, ~0.4min left)
+[21:51:06]   611/611 (1.90s/blk, ~0.0min left)
+[21:51:06] qwen3:8b: DONE in 19.4min
